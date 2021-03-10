@@ -103,7 +103,7 @@ def main():
 
 #             TYPE='type'
 #             model_type='mobilenetv2'
-#             user='block'
+#             user='block'd
 #             iteration='1-2'
 
 #             first_time_training=True
